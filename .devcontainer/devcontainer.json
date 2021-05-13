@@ -6,6 +6,8 @@
 	"settings": {
 		"terminal.integrated.shell.linux": "/bin/bash",
 		"haskell.maxNumberOfProblems" : 200,
+		// new feature of vscode-haskell after 1.2.0+
+		"haskell.releasesURL": "https://github.com/soiamsoNG/haskell-language-server-via-fastgit/releases/download/0.0.1/releasesInfo.json"
 	},
 	// Use 'appPort' to create a container with published ports. If the port isn't working, be sure
 	// your server accepts connections from all interfaces (0.0.0.0 or '*'), not just localhost.
